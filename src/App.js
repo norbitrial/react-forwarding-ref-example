@@ -10,8 +10,6 @@ function App() {
     const { offsetWidth, offsetHeight } = childDivRef.current;
     setWidth(offsetWidth);
     setHeight(offsetHeight);
-    
-    console.log('Changed height property', offsetHeight);
   }, [childDivRef]);
 
   return <>
