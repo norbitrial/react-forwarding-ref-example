@@ -1,6 +1,8 @@
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT) [![Dependency Status](https://david-dm.org/norbitrial/react-forwarding-ref-example.svg)](https://david-dm.org/norbitrial/react-forwarding-ref-example) [![Build Status](https://travis-ci.com/norbitrial/react-forwarding-ref-example.svg?branch=master)](https://travis-ci.com/norbitrial/react-forwarding-ref-example)
+
 ## React Forwarding Ref example
 
- The repository represents a working example from my answer for [this Stack Overflow question](https://stackoverflow.com/questions/58942210/how-to-get-size-of-an-element-in-an-react-app-that-is-totally-based-on-functiona). By using [forwarding reference](https://reactjs.org/docs/forwarding-refs.html#forwarding-refs-to-dom-components) technique in React the App component can easily access child component's properties.
+The repository represents a working example from my answer for [this Stack Overflow question](https://stackoverflow.com/questions/58942210/how-to-get-size-of-an-element-in-an-react-app-that-is-totally-based-on-functiona). By using [forwarding reference](https://reactjs.org/docs/forwarding-refs.html#forwarding-refs-to-dom-components) technique in React the App component can easily access child component's properties.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
